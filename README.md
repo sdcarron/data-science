@@ -1,2 +1,2 @@
 # data-science
-includes Data Mining, Data Science, and Statistics  work in both Python and R
+includes Data Analytics, Data Mining, Data Science, and Statistics  work in Python, R, SAS, and VBA (Excel)
