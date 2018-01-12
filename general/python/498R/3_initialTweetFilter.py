@@ -5,7 +5,7 @@ import os
 os.getcwd ()
 
 #Set the current working directory to be C:\Users\Steve\Desktop\dataScience\CS 498R, which is the directory for this data science project
-os.chdir ("C:\Users\Steve\Desktop\dataScience\CS 498R")
+os.chdir ("Directory Path") #Example for directory path might be like "C:\Users\Username\Desktop\IntentDirectory
 
 #Import glob in order to cycle through each of the files in the CURRENT Filter Set
 import glob
