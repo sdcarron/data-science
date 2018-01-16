@@ -4,7 +4,7 @@ import os
 print os.getcwd ()
 
 #Set the current working directory as desired
-os.chdir ("C:/Users/Steve/Desktop/dataScience/CS 498R")
+os.chdir ("Directory Path") #Example for directory path might be like "C:\Users\Username\Desktop\IntentDirectory
 
 #Verify that current working directory is updated as desired
 print os.getcwd ()
