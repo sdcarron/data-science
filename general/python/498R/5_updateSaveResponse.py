@@ -2,7 +2,7 @@ import os
 
 print os.getcwd ()
 
-os.chdir ("C:\Users\Steve\Desktop\dataScience\CS 498R")
+os.chdir ("Directory Path") #Example for directory path might be like "C:\Users\Username\Desktop\IntentDirectory
 
 
 
@@ -410,7 +410,7 @@ for child in os.listdir (originalSaveDirectory):
         
         #print "Current Child Response Directory contains: ", os.listdir (childResponseDirectory), "\n\n\n"
         
-        #if os.path.dirname (childResponseDirectory) == "C:\\Users\\Steve\\Desktop\dataScience\\CS 498R\\responseSaveDirectory\\@0GGiraffeneck":
+        #if os.path.dirname (childResponseDirectory) == "C:\Users\Username\Desktop\IntentDirectory
             
             #print "Hit @0GGiraffeneck, which has listdir: ", os.listdir (childResponseDirectory)
         
