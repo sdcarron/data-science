@@ -1,1 +1,10 @@
+This contains files (no code) displaying the performance of code I wrote for a robotics AI course in studies at GA Tech.
 
+(1) This file displays the performance of the Kalman Filter code. This code accomplished 2 objectives
+(A) This code implements a Kalman Filter, which is used in the task of monitoring and predicting the location of asteroids within the asteroid field
+(B) This code uses the results from implementing the Kalman Filter to inform the ship in how to navigate through the asteroid field
+
+
+(2) This file displays the performance of the Particle Filter code. This code accomplished 2 objectives
+(A) This code implements a Particle Filter, which is used in the task of identifying the glider location within the boundaries of the map
+(B) This code uses the results from implementing the Particle Filter to steer the glider to a specified target, after the glider is localized
